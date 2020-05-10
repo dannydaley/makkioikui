@@ -81,7 +81,7 @@ nav {
 	color: #f87493;
 }
 .heroimage {
-	display: flex;
+	/*display: flex;*/
 	padding-right: 100px;
 }
 .about {
@@ -250,7 +250,7 @@ nav {
 	}
 	.hero img {
 		overflow: visible;
-		padding-right: 50px; 
+	/*	padding-right: 50px;*/ 
 	}
 	.herotext {
 		overflow: hidden;
