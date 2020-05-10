@@ -247,6 +247,9 @@ nav {
   		height: 40vh;
 		background-size: 100vw 60vh ;
 	}
+	.hero img {
+		overflow: visible; 
+	}
 	.herotext {
 		overflow: hidden;
 	}
