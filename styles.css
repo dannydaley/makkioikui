@@ -246,6 +246,7 @@ nav {
   	.hero {
   		height: 40vh;
 		background-size: 100vw 60vh ;
+		padding-right: : 0px;
 	}
 	.hero img {
 		overflow: visible; 
@@ -254,7 +255,8 @@ nav {
 		overflow: hidden;
 	}
 	.contact {
-		height: 37vh;}
+		height: 37vh;
+		padding-left: 30px;}
 
 	.newshead hr {
 		width: 25%;
