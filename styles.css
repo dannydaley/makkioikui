@@ -249,7 +249,8 @@ nav {
 		padding-right: : 0px;
 	}
 	.hero img {
-		overflow: visible; 
+		overflow: visible;
+		padding-right: 50px; 
 	}
 	.herotext {
 		overflow: hidden;
