@@ -244,8 +244,9 @@ nav {
   and (max-device-width: 900px) 
   and (-webkit-min-device-pixel-ratio: 2) {
   	.hero {
+  		min-height: 500px;
   		height: 40vh;
-		background-size: 100vw 60vh ;
+		background-size: 100%;
 		padding-right: : 0px;
 	}
 	.hero img {
@@ -264,6 +265,7 @@ nav {
 		margin-top: 10%;
 	}
 	.contact {
+		min-height: 550px;
 		height: 37vh;
 		padding-left: 30px;}
 
