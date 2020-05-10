@@ -250,11 +250,18 @@ nav {
 	}
 	.hero img {
 		overflow: visible;
-		padding-right: 50px;
-		margin-right: 50px; 
+		padding-right: 0;
+		margin-right: 0; 
+	}
+	.heroimage {
+		padding: 0;
+		padding-left: 50px;
 	}
 	.herotext {
 		overflow: hidden;
+	}
+	.about {
+		margin-top: 10%;
 	}
 	.contact {
 		height: 37vh;
